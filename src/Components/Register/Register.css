@@ -1,0 +1,12 @@
+.register{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.register form {
+    width: 50%;
+    padding: 30px;
+}
